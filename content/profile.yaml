@@ -1,0 +1,29 @@
+- profile:
+  initials: JC
+  name: Jesús David Chicano
+  email: jesus.d.chicano@gmail.com
+  profession: Desarrollador Full Stack
+  image: images/profile.jpg
+  location: Córdoba, España
+  relocation: true
+  company: Ninguna
+  for_hire: true
+  focus: Aprender React
+  focus_url: https://reactjs.org
+  about: |
+    Me dedico al desarrollo de aplicaciones web y móviles. Durante los últimos años he estado tratando de absorber todo lo que puedo sobre el maravilloso mundo que es la web.
+
+    Gracias a mi formación, considero que puedo aportar valor y seguir desarrollándome profesionalmente en una compañía que coincida con mis valores y expectativas.
+  skills:
+    - JavaScript
+    - HTML / CSS
+    - PHP
+  tools:
+    - Ionic
+    - VSCode
+    - Angular
+  budget:
+    currency: €
+    min: 5
+    max: 30
+    default: 10

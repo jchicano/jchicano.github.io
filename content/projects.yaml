@@ -1,0 +1,30 @@
+- name: TEAyudo
+  url: https://teayudo.netlify.app/
+  description: Aplicación híbrida para ayudar a niños con autismo a planificar su rutina diara por parte del profesorado.
+  status: en progreso
+  tags:
+    - Ionic
+    - Gatsby
+  icon: github
+  image: images/teayudo_icon_complete_black.png
+
+- name: AppCRUD
+  url: https://github.com/jchicano/AppCRUD
+  description: Aplicación nativa Android con base de datos local que sirve para gestionar el inventario de videojuegos de una tienda.
+  status: finalizado
+  tags:
+    - Android Studio
+    - SQLite
+  icon: github
+  image: images/appcrud.png
+
+- name: MundoCoches
+  url: https://github.com/jchicano/mundocoches
+  description: Blog de noticias y análisis del mundo del motor realizado junto a varios compañeros de clase.
+  status: finalizado
+  tags:
+    - JavaScript
+    - HTML
+    - PHP
+  icon: website
+  image: images/mundocoches.png
