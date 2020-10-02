@@ -9,7 +9,7 @@
   image: images/teayudo_icon_complete_black.png
 
 - name: AppCRUD
-  url: https://github.com/jchicano/AppCRUD
+  url: https://jchicano.github.io/AppCRUD/
   description: Aplicación nativa Android con base de datos local que sirve para gestionar el inventario de videojuegos de una tienda.
   status: finalizado
   tags:
@@ -19,7 +19,7 @@
   image: images/appcrud.png
 
 - name: MundoCoches
-  url: https://github.com/jchicano/mundocoches
+  url: http://mundocoches.tk/
   description: Blog de noticias y análisis del mundo del motor realizado junto a varios compañeros de clase.
   status: finalizado
   tags:
